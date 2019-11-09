@@ -1,0 +1,17 @@
+{
+  "name": "rcp",
+  "version": "1.0.0",
+  "description": "A js recipe app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "Sukanta Maikap",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {}
+}
